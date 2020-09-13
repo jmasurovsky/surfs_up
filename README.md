@@ -14,6 +14,7 @@ Table 1. June temperature summary statistics
 
 Table 2. December temperature summary statistics
 
+
 - The mean temperature trend for June is ~75°F, and the mean temperature for December is 71°F.
 
 - The standard deviation of the temperature for June is ~3.3°F, and ~3.8°F for December.
