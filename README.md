@@ -6,10 +6,10 @@ The purpose of this project was to perform an in-depth analysis on temperature d
 
 ## Results
 
-[img_1](https://github.com/jmasurovsky/surfs_up/blob/master/Images/June_temp.png)
+![img_1](https://github.com/jmasurovsky/surfs_up/blob/master/Images/June_temp.png)
 Table 1. June temperature summary statistics                                                 
 
-[img_2](https://github.com/jmasurovsky/surfs_up/blob/master/Images/December_temp.png)
+![img_2](https://github.com/jmasurovsky/surfs_up/blob/master/Images/December_temp.png)
 Table 2. December temperature summary statistics
 
 - The mean temperature trend for June is ~75°F, and the mean temperature for December is 71°F.
